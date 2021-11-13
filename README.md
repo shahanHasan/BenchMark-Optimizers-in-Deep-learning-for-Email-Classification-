@@ -40,7 +40,6 @@
 ### Directory Structure of the repo :
 
 .. code::
-
 .
 |-- Comparison
 |   |-- Previous
