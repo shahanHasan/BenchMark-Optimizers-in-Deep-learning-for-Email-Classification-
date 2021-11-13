@@ -39,7 +39,7 @@
 
 ### Directory Structure of the repo :
 
-"""
+```
 .
 |-- Comparison
 |   |-- Previous
@@ -230,7 +230,7 @@
 |-- SpamAssasin.ipynb
 |-- SpamBase.ipynb
 `-- utils.py
-"""
+```
 
 
 ### TO DO :
