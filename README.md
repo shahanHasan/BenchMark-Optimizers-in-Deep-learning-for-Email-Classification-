@@ -42,23 +42,36 @@
 ```
 .
 |-- Comparison
+|   |-- Comparison_BarCharts
+|   |   |-- LogNorm_Loss_barplot.jpeg
+|   |   |-- LogNorm_Test_Acc_barplot.jpeg
+|   |   |-- LogNorm_Train_Acc_barplot.jpeg
+|   |   |-- Test_Acc_barplot.jpeg
+|   |   |-- Test_Loss_barplot.jpeg
+|   |   `-- Train_Acc_barplot.jpeg
 |   |-- Previous
 |   |   |-- Adam_comparison.csv
 |   |   |-- All_optimizers.csv
 |   |   |-- Nadam_comparison.csv
 |   |   `-- RMS_comparison.csv
+|   |-- Average_Overall_dataset.csv
 |   |-- Enron_Bi-GRU_comparison.csv
 |   |-- Enron_Bi-LSTM_comparison.csv
 |   |-- Enron_BRNN_comparison.csv
 |   |-- Enron_comparison.csv
+|   |-- Enron_optim.csv
 |   |-- LingSpam_Bi-GRU_comparison.csv
 |   |-- LingSpam_Bi-LSTM_comparison.csv
 |   |-- LingSpam_BRNN_comparison.csv
 |   |-- LingSpam_comparison.csv
+|   |-- LingSpam_optim.csv
+|   |-- SpamAssasin_Bi-GRU_comparison
 |   |-- SpamAssasin_Bi-GRU_comparison.csv
+|   |-- SpamAssasin_Bi-LSTM_comparison
 |   |-- SpamAssasin_Bi-LSTM_comparison.csv
 |   |-- SpamAssasin_BRNN_comparison.csv
-|   `-- SpamAssasin_comparison.csv
+|   |-- SpamAssasin_comparison.csv
+|   `-- SpamAssasin_optim.csv
 |-- Datasets
 |   |-- Enron
 |   |   |-- PROCESSED.csv
@@ -226,10 +239,10 @@
 |-- LICENSE
 |-- LingSpam.ipynb
 |-- README.md
-|-- result.html
 |-- SpamAssasin.ipynb
 |-- SpamBase.ipynb
 `-- utils.py
+
 ```
 
 
