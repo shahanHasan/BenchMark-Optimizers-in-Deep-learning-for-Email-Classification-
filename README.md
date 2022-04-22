@@ -256,9 +256,9 @@
 3. Try other datasets , problems (Classification, Generative, Reinforcement) etc 
 
 
-# Citation :
+# ✍️ Citation :
 
-"""
+```
 @INPROCEEDINGS{9718394,
   author={Zaman, Syed Mahbubuz and Hasan, Md. Mohidul and Sakline, Redwan Islam and Das, Dipto and Alam, Md. Ashraful},
   booktitle={2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)}, 
@@ -268,4 +268,4 @@
   number={},
   pages={1-6},
   doi={10.1109/CSDE53843.2021.9718394}}
-"""
+```
