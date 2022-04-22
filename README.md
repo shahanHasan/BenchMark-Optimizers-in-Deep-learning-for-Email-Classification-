@@ -254,3 +254,18 @@
     
 2. Try Other Deel learning algorithms : CNN, ANN, CNN-BI-LSTM, BERT, Transformers     
 3. Try other datasets , problems (Classification, Generative, Reinforcement) etc 
+
+
+# Citation :
+
+"""
+@INPROCEEDINGS{9718394,
+  author={Zaman, Syed Mahbubuz and Hasan, Md. Mohidul and Sakline, Redwan Islam and Das, Dipto and Alam, Md. Ashraful},
+  booktitle={2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)}, 
+  title={A Comparative Analysis of Optimizers in Recurrent Neural Networks for Text Classification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/CSDE53843.2021.9718394}}
+"""
